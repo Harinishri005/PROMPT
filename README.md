@@ -204,7 +204,6 @@ LLMs are advanced AI models trained on massive amounts of text data to understan
 * Image/Video Creation (Art, Advertising)
 * Code Generation (GitHub Copilot)
 * Data Augmentation for training AI models
-
 ---
 
 ### **8. Limitations and Ethical Considerations**
