@@ -39,7 +39,7 @@ Step 4: Content Development
 4.3 Highlight important terms and definitions
 4.4 Use examples and real-world analogies for better understanding
 ________________________________________
-Step 5: Visual and Technical Enhancement
+Step 5: Visual and Technical Enhancement 
 5.1 Add tables, comparison charts (e.g., GPT-3 vs GPT-4)
 5.2 Use tools like Canva, PowerPoint, or LaTeX for formatting
 5.3 Add code snippets or pseudocode for LLM working (optional)
